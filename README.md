@@ -1,2 +1,2 @@
 # MUI-Template
-Pretty simple MUI template project
+A simple TypeScript and MUI template project
